@@ -1,0 +1,8 @@
+c:\users\bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\MySqlFTPBackup.exe
+c:\users\bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\MySqlFTPBackup.pdb
+c:\users\bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\MySql.Data.dll
+c:\users\bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\MySqlBackup.dll
+c:\users\bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\obj\Debug\MySqlFTPBackup.exe
+c:\users\bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\obj\Debug\MySqlFTPBackup.pdb
+c:\users\bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\obj\Debug\MySqlFTPBackup.csprojResolveAssemblyReference.cache
+C:\Users\Bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\ICSharpCode.SharpZipLib.dll

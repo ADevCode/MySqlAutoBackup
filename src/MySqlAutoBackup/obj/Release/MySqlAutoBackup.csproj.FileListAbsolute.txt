@@ -1,0 +1,7 @@
+C:\Users\Bot1\Documents\Visual Studio 2012\Projects\MySqlAutoBackup\MySqlAutoBackup\bin\Release\MySqlAutoBackup.exe
+C:\Users\Bot1\Documents\Visual Studio 2012\Projects\MySqlAutoBackup\MySqlAutoBackup\bin\Release\MySqlAutoBackup.pdb
+C:\Users\Bot1\Documents\Visual Studio 2012\Projects\MySqlAutoBackup\MySqlAutoBackup\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Bot1\Documents\Visual Studio 2012\Projects\MySqlAutoBackup\MySqlAutoBackup\bin\Release\MySql.Data.dll
+C:\Users\Bot1\Documents\Visual Studio 2012\Projects\MySqlAutoBackup\MySqlAutoBackup\bin\Release\MySqlBackup.dll
+C:\Users\Bot1\Documents\Visual Studio 2012\Projects\MySqlAutoBackup\MySqlAutoBackup\obj\Release\MySqlAutoBackup.exe
+C:\Users\Bot1\Documents\Visual Studio 2012\Projects\MySqlAutoBackup\MySqlAutoBackup\obj\Release\MySqlAutoBackup.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\MySqlFTPBackup.exe
+C:\Users\Bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\MySqlFTPBackup.pdb
+C:\Users\Bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\MySql.Data.dll
+C:\Users\Bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\bin\Debug\MySqlBackup.dll
+C:\Users\Bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\obj\Debug\MySqlFTPBackup.exe
+C:\Users\Bot1\documents\visual studio 2012\Projects\MySqlFTPBackup\MySqlFTPBackup\obj\Debug\MySqlFTPBackup.pdb
